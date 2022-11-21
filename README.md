@@ -1,6 +1,4 @@
-# Hi, I'm Jasleen!!
-
-![](https://komarev.com/ghpvc/?username=Jasleen8801&color=red)
+# Hi, I'm Jasleen!!!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jasleen88801) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasleen-kaur-9a27b821a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jkaur1_be21)
