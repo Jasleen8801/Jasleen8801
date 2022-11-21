@@ -47,4 +47,3 @@ Now that we have that out of the way, let me tell you a bit about myself 😜:
 ### Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![Snake animation](https://github.com/Jasleen8801/Jasleen8801/blob/output/github-contribution-grid-snake.svg)
