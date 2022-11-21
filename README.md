@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Web automation and Discord Bots**<br>🌱 I’m currently learning **Data Structures and Algorithms**<br>👯 I’m looking to collaborate on **Machine Learning and Data Science projects**<br>🤝 I’m looking for help with **Git and Github Commands**<br>💬 Ask me about **Object Oriented Programming and Python**<br> 📫 How to reach me **jasleen080104@gmail.com**<br>⚡ Fun fact **I 'understood' that code**<br>
+🔭 I’m currently working on **Web automation and Discord Bots**<br>🌱 I’m currently learning **Data Structures and Algorithms**<br>👯 I’m looking to collaborate on **Machine Learning and Data Science projects**<br>🤝 I’m looking for help with **Cloud Hosting**<br>💬 Ask me about **Object Oriented Programming and Python**<br> 📫 How to reach me **jasleen080104@gmail.com**<br>⚡ Fun fact **I 'understood' that code**<br>
 
 
 ## 🌐 Socials:
