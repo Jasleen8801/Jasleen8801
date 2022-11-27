@@ -6,8 +6,8 @@
 
 Now that we have that out of the way, let me tell you a bit about myself 😜:
 
-* 🔭 I’m currently working on **Web automation and Discord Bots**<br>
-* 🌱 I’m currently learning **Data Structures and Algorithms**<br>
+* 🔭 I’m currently working on **Web automation and Bots**<br>
+* 🌱 I’m currently learning **Metaverse and Web3.0**<br>
 * 👯 I’m looking to collaborate on **Machine Learning and Data Science projects**<br>
 * 🤝 I’m looking for help with **Cloud Hosting and Deployment**<br>
 * 💬 Ask me about **Object Oriented Programming and Python**<br> 
