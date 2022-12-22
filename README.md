@@ -7,7 +7,7 @@
 Now that we have that out of the way, let me tell you a bit about myself 😜:
 
 * 🔭 I’m currently working on **Web automation and Bots**<br>
-* 🌱 I’m currently learning **DevOps**<br>
+* 🌱 I’m currently learning **MERN Stack**<br>
 * 👯 I’m looking to collaborate on **Machine Learning and Data Science projects**<br>
 * 🤝 I’m looking for help with **Cloud Hosting and Deployment**<br>
 * 💬 Ask me about **Object Oriented Programming and Python**<br> 
