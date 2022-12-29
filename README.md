@@ -16,7 +16,7 @@ Now that we have that out of the way, let me tell you a bit about myself 😜:
 
 ### Github Stats</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jasleen8801&theme=dark&hide_border=false)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Jasleen8801&theme=radical&no-frame=false&no-bg=true&margin-w=4)</br>
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Jasleen8801&theme=radical&no-frame=false&no-bg=true&margin-w=4)</br> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasleen8801&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### Tech Stack
