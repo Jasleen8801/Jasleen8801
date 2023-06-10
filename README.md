@@ -24,4 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasleen8801&show_icons=true&locale=en&layout=compact" alt="jasleen8801" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jasleen8801&theme=dark)](https://git.io/streak-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasleen8801&show_icons=true&locale=en" alt="jasleen8801" /></p>
