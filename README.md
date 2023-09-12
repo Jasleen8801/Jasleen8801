@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <h1 align="center">Hi 👋, I'm Jasleen</h1>
 <h3 align="center">Pour yourself a cup of coffee, fire up your code, and let's make magic together on GitHub!</h3>
 
