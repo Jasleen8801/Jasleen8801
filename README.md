@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **quantum computing :>**
+- 🌱 I’m currently learning **Golang:>**
 
-- 👯 I’m looking to collaborate on **full stack projects**
+- 👯 I’m looking to collaborate on **full stack and app dev projects**
 
 - 🤝 I’m looking for help with **data structures and algorithms**
 
-- 📫 How to reach me **jasleen080104@gmail.com**
+- 📫 How to reach me **jasleen88801@gmail.com**
 
-- ⚡ Fun fact **I think I took a good pic**
+- ⚡ Fun fact **Just get me a guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
